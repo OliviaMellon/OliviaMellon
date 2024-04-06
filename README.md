@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![tryhackme stats](https://raw.githubusercontent.com/OliviaMellon/OliviaMellon/master/assets/thm_propic.png)
 
 
+![thmprofilebadge](https://tryhackme-badges.s3.amazonaws.com/incorgnito.png)
 
 <!--
 **OliviaMellon/OliviaMellon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
